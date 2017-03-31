@@ -222,3 +222,4 @@ Output
 .idea
 *.iml
 coverageResults.txt
+*.cs.orig
