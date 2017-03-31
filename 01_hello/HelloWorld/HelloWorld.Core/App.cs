@@ -21,6 +21,8 @@ namespace HelloWorld.Core
             // nowy kod 
             // nowy kod 
             // nowy kod 
+
+            // zmiana w 1 miejscu 
         }
     }
 }
